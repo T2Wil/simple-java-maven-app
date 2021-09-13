@@ -17,5 +17,10 @@ public class App
     private final String getMessage() {
         return message;
     }
+    private final void getNothing() {
+        
+    }
+    private static void setNothing(String nothing){
+    }
 
 }
