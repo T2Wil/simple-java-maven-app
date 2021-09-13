@@ -20,5 +20,7 @@ public class App
     private final void getNothing() {
         
     }
+    private static void setNothing(String nothing){
+    }
 
 }
